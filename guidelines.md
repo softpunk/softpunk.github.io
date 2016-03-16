@@ -11,4 +11,4 @@ So, to avoid the issues with traditional rules, we decide what **to** do as indi
 - **Be mindful when discussing hot-button topics**, such as discussing things you dislike about a particular language, editor wars, discussion about moderation, etc.
 - **Don't troll**. Trying to make people angry or upset detracts from the environment for others.
 - **Be liberal with NSFW labels.** If it's not socially accepted to show it to other people's kids, label it NSFW **in the same message**.
-- **Don't spam or flood.** This is difficult to define, but the gist is that you should be thoughtful about whether you're disrupting the flow of conversation and/or reducing the signal to noise ratio of the channel.
+- **Don't spam or flood.** If you're disrupting the flow of conversation or just generally reducing the signal to noise ratio, reconsider your approach.
