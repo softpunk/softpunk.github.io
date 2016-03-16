@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Guidelines
+title: "Guidelines"
 permalink: /guidelines/
 ---
 
-# Community Guidelines
 In order to have channel that's comfortable, cozy, and generally contains interesting and valuable discussion, we have to employ moderation, but our guidelines can almost entirely be summarized as “avoid gratuitous negativity”. The following examples are provided for additional clarity, but are not exhaustive – use your own judgment as to whether you're contributing to the desired environment. 
 
 - **Be civil**. Don't say things you wouldn't say in a face-to-face conversation.
