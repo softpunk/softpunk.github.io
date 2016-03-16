@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-permalink: /Archive/
+permalink: /archive/
 ---
 
 This is where we keep the talks, papers, and articles that were previously [featured](/featured/)
