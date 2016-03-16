@@ -6,7 +6,6 @@ permalink: /guidelines/
 
 Rules tell us what **not** to do rather than what **to** do, and they're imposed by those with power on those without.
 So, to avoid the issues with traditional rules, we decide what **to** do as individuals in a community.
-Here are some ideas as to how:
 
 - **Be civil**. Remember that you're talking to an actual person.
 - **Be mindful when discussing hot-button topics**, such as discussing things you dislike about a particular language, editor wars, discussion about moderation, etc.
