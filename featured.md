@@ -7,12 +7,12 @@ permalink: /featured/
 Each Friday we'll update this page with a different talk, paper, and article. You can see all the talks, papers, and articles we've featured on the site [here](/archive/).
 
 ## Article of the week
-> If what you have to say is so important the other person must hear it, then you must say it in the way they will most likely hear it — respectfully, clearly, and with empathy and attention to the hearer, to make a space for conversation and clarification.
+> At one end of the continuum, you have your comfort zone where you perform effortlessly. You don't level up in your comfort zone, because you're doing stuff you already know how to do. At the other end of the scale you have your panic zone, where you don't level up, because you're busy freaking out. Between the two there is a space where your ability and the challenge barely overlap. This is where you level up.
 
-[How to be Polite (For Geeks)](https://medium.com/message/how-to-be-polite-for-geeks-86cb784983b1) is a great explanation both of why politeness matters and how to actually *be* polite in the first place.
+[Hacking Passion](http://kytrinyx.com/presentations/hacking-passion) is probably, more than anything, about how we learn. It's actually a talk, but I had no idea. Maybe the video wasn't available when I read it, or maybe I just had 3rd party requests blocked. I don't know what kind of speaker the author is, so I recommend just reading it.
 
 ## Talk of the week
-[The Future Doesn't Have to be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) by Alan Kay. The title should be all you need.
+[This week's talk](https://www.youtube.com/watch?v=QTJRwKOFddc) is 28 minutes, and it's by Dan Ingalls, who's famous for Smalltalk. It very much follows the spirit of Smalltalk and will be interesting, and hopefully jarring, whether you're familiar with the ideas of Smalltalk or not.
 
 ## Paper of the week
-If you think math is terrible, too hard, or just generally a really boring and time consuming area of study, you **have** to read [Lockhart's Lament](http://www.maa.org/sites/default/files/pdf/devlin/LockhartsLament.pdf). It's short, easy to read, and focuses on the failure of conventional mathematics education. I'm also going to cheat a little bit and recommend this short [high school valedictorian speech](https://www.youtube.com/watch?v=9M4tdMsg3ts) about the nature of compulsory education.
+[How To Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) is a 2 page description of a 3-pass approach to reading papers without getting overwhelmed. Some of its terminology is too high level for we casuals, but it the methodology should be mostly intact regardless.
