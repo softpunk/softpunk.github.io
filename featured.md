@@ -12,7 +12,7 @@ Each Friday we'll update this page with a different talk, paper, and article. Yo
 [Hacking Passion](http://kytrinyx.com/presentations/hacking-passion) is probably, more than anything, about how we learn. It's actually a talk, but I had no idea. Maybe the video wasn't available when I read it, or maybe I just had 3rd party requests blocked. I don't know what kind of speaker the author is, so I recommend just reading it.
 
 ## Talk of the week
-[This week's talk](https://www.youtube.com/watch?v=QTJRwKOFddc) is 28 minutes, and it's by Dan Ingalls, who's famous for Smalltalk. It very much follows the spirit of Smalltalk and will be interesting, and hopefully jarring, whether you're familiar with the ideas of Smalltalk or not.
+[This week's talk](https://www.youtube.com/watch?v=QTJRwKOFddc) is 28 minutes, and it's by Dan Ingalls, who's famous for Smalltalk. It very much follows the spirit of Smalltalk and will be interesting, and hopefully jarring, whether you're familiar with the ideas of Smalltalk or not. You can find the site for it [here](http://lively-kernel.org/).
 
 ## Paper of the week
 [How To Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) is a 2 page description of a 3-pass approach to reading papers without getting overwhelmed. Some of its terminology is too high level for we casuals, but it the methodology should be mostly intact regardless.
