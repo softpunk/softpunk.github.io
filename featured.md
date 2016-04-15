@@ -6,14 +6,12 @@ permalink: /featured/
 
 Each Friday we'll update this page with a different talk, paper, and article. You can see all the talks, papers, and articles we've featured on the site [here](/archive/).
 
-## No update this week (April 08, 2016)
-I'm still getting settled, so for this week, I'm keeping last week's feastures.
-
 ## Article of the week
-[This one](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html) is about undefined behavior in C. To me, it really has two main perspectives. If you have to use C, its content is valuable, and if you don't have to learn C, you'll get to see why we need tools that will eventually enable us to stop using it for userland software.
+I have a lot of trouble reading as much as I'd like, and I'm sure I'm not the only one in #code with this problem. [Reading for the Rushed](http://blog.fogus.me/2012/02/22/reading/) is about how to improve on this.
 
 ## Talk of the week
-[Let's be mainstream](https://www.youtube.com/watch?v=oYk8CKH7OhE) is about Elm and its emphasis on learning. This is one of my favorite themes, and I think this talk will make it easy to see why.
+This week's talk is by a front-end programmer who envied the back-end team, since they weren't stuck using JavaScript. It's [Make the Back-End Team Jealous](https://www.youtube.com/watch?v=FV0DXNB94NE), and discusses the speaker's experiences using [Elm](http://elm-lang.org/), and how he feels like the back-end team has something to envy now.
 
 ## Paper of the week
-I was busy this week, so I'm going to fall back on an older paper, [the original introduction to Lisp](http://www-formal.stanford.edu/jmc/recursive.pdf) by McCarthy. It's 34 pages, and should be well-worth your time.
+[Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) details the classic compiler hack by Ken Thompson, in which he gives himself access to every unix system.
+
