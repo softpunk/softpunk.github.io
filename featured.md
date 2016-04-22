@@ -7,11 +7,10 @@ permalink: /featured/
 Each Friday we'll update this page with a different talk, paper, and article. You can see all the talks, papers, and articles we've featured on the site [here](/archive/).
 
 ## Article of the week
-I have a lot of trouble reading as much as I'd like, and I'm sure I'm not the only one in #code with this problem. [Reading for the Rushed](http://blog.fogus.me/2012/02/22/reading/) is about how to improve on this.
+[Immutability is Not Enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough). Immutable data structures are insufficient to eliminate state-related bugs.
 
 ## Talk of the week
-This week's talk is by a front-end programmer who envied the back-end team, since they weren't stuck using JavaScript. It's [Make the Back-End Team Jealous](https://www.youtube.com/watch?v=FV0DXNB94NE), and discusses the speaker's experiences using [Elm](http://elm-lang.org/), and how he feels like the back-end team has something to envy now.
+[Media for Thinking the Unthinkable](https://vimeo.com/67076984). Some thoughts are hard for humans to think. How can we design media to make it easier to think those thoughts?
 
 ## Paper of the week
-[Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) details the classic compiler hack by Ken Thompson, in which he gives himself access to every unix system.
-
+[Studying the Language and Structure in Non-Programmers’ Solutions to Programming Problems](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf). Programming languages are not necessarily designed with the experience of using and learning them in mind. Many programmers still scoff at Ruby's "optimizing for programmer happiness" mentality. But programming languages are a human-machine interface. Can we do better?
