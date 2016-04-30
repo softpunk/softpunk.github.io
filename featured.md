@@ -6,6 +6,8 @@ permalink: /featured/
 
 Each Friday we'll update this page with a different talk, paper, and article. You can see all the talks, papers, and articles we've featured on the site [here](/archive/).
 
+## On hold temporarily for personal reasons (2016-04-30)
+
 ## Article of the week
 [Immutability is Not Enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough). Immutable data structures are insufficient to eliminate state-related bugs.
 
