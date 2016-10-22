@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How to register a nick"
+title: ""
 permalink: /register/
 ---
 
