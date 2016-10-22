@@ -4,7 +4,7 @@ title: ""
 permalink: /register/
 ---
 
-# I can't talk on `#code`
+# I can't talk on \#code
 
 **Mibit users**: *Your mibbit account isn't a Rizon account, so you still have to register with rizon.*
 
