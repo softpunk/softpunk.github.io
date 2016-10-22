@@ -4,6 +4,8 @@ title: ""
 permalink: /register/
 ---
 
+# I can't talk on `#code`
+
 **Mibit users**: *Your mibbit account isn't a Rizon account, so you still have to register with rizon.*
 
 **NOTE**: *Make sure there are no spaces or other text before the `/` when entering commands, or your password and email address may be sent to the current channel.*
