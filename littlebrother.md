@@ -56,7 +56,7 @@ See the end of this file for the complete legalese.
 - [Epilogue](#epilogue)
 - [Afterword by Bruce Schneier](#afterword-1)
 - [Afterword by Andrew "bunnie" Huang, Xbox Hacker](#afterword-2)
-- [Bibliography](#bibliography) {#bibliography}
+- [Bibliography](#bibliography)
 - [Acknowledgments](#acknowledgments)
 - [Creative Commons](creative-commons)
 
@@ -6419,7 +6419,7 @@ _This chapter is dedicated to Pages Books in Toronto, Canada. Long a fixture on 
 
 _This chapter is dedicated to Hudson Booksellers, the booksellers that are in practically every airport in the USA. Most of the Hudson stands have just a few titles (though those are often surprisingly diverse), but the big ones, like the one in the AA terminal at Chicago's O'Hare, are as good as any neighborhood store. It takes something special to bring a personal touch to an airport, and Hudson's has saved my mind on more than one long Chicago layover._
 
-## [Creative Commons](creative-commons) #{creative-commons}
+## [Creative Commons](#creative-commons) #{creative-commons}
 
 Creative Commons Legal Code
 
