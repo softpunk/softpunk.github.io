@@ -6200,7 +6200,7 @@ I held Ange out at arm's length and looked her up and down and up and down. I he
 
 She kissed me then, and I kissed her back, and it was some time before we went out for that burrito.
 
-## [Afterword by Bruce Schneier](#afterword-1) #{afterword-1}
+## [Afterword by Bruce Schneier](#afterword-1) {#afterword-1}
 
 I'm a security technologist. My job is making people secure.
 
@@ -6238,7 +6238,7 @@ So close the book and go. The world is full of security systems. Hack one of the
 
 [Bruce Schneier](http://www.schneier.com)
 
-## [Afterword by Andrew "bunnie" Huang, Xbox Hacker](#afterword-2) #{afterword-2}
+## [Afterword by Andrew "bunnie" Huang, Xbox Hacker](#afterword-2) {#afterword-2}
 
 Hackers are explorers, digital pioneers. It's in a hacker's nature to question conventions and be tempted by intricate problems. Any complex system is sport for a hacker; a side effect of this is the hacker's natural affinity for problems involving security. Society is a large and complex system, and is certainly not off limits to a little hacking. As a result, hackers are often stereotyped as iconoclasts and social misfits, people who defy social norms for the sake of defiance. When I hacked the Xbox in 2002 while at MIT, I wasn’t doing it to rebel or to cause harm; I was just following a natural impulse, the same impulse that leads to fixing a broken iPod or exploring the roofs and tunnels at MIT.
 
@@ -6312,7 +6312,7 @@ Many novelists have tackled parts of the story in Little Brother. Daniel Pinkwat
 
 On a more contemporary front, there's Scott Westerfeld's ["So Yesterday"](http://www.amazon.com/So-Yesterday-Scott-Westerfeld/dp/1595140328/ref=sr_1_1?ie=UTF8&s=books&qid=1219360144&sr=1-1) (Razorbill, 2004), which follows the adventures of cool hunters and counterculture jammers. Scott and his wife Justine Larbalestier were my partial inspiration to write a book for young adults -- as was Kathe Koja. Thanks, guys.
 
-## [Acknowledgments](#acknowledgments) #{acknowledgments}
+## [Acknowledgments](#acknowledgments) {#acknowledgments}
 
 This book owes a tremendous debt to many writers, friends, mentors, and heroes who made it possible.
 
@@ -6419,7 +6419,7 @@ _This chapter is dedicated to Pages Books in Toronto, Canada. Long a fixture on 
 
 _This chapter is dedicated to Hudson Booksellers, the booksellers that are in practically every airport in the USA. Most of the Hudson stands have just a few titles (though those are often surprisingly diverse), but the big ones, like the one in the AA terminal at Chicago's O'Hare, are as good as any neighborhood store. It takes something special to bring a personal touch to an airport, and Hudson's has saved my mind on more than one long Chicago layover._
 
-## [Creative Commons](#creative-commons) #{creative-commons}
+## [Creative Commons](#creative-commons) {#creative-commons}
 
 Creative Commons Legal Code
 
