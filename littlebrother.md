@@ -205,7 +205,8 @@ For Alice, who makes me whole
 
 Every chapter of this file has been dedicated to a different bookstore, and in each case, it's a store that I love, a store that's helped me discover books that opened my mind, a store that's helped my career along. The stores didn't pay me anything for this -- I haven't even told them about it -- but it seems like the right thing to do. After all, I'm hoping that you'll read this ebook and decide to buy the paper book, so it only makes sense to suggest a few places you can pick it up!
 
-**Chapter 1**
+### Chapter 1
+
 I'm a senior at Cesar Chavez high in San Francisco's sunny Mission district, and that makes me one of the most surveilled people in the world. My name is Marcus Yallow, but back when this story starts, I was going by w1n5t0n. Pronounced "Winston."
 
 _Not_ pronounced "Double-you-one-enn-five-tee-zero-enn" -- unless you're a clueless disciplinary officer who's far enough behind the curve that you still call the Internet "the information superhighway."
@@ -386,7 +387,8 @@ I had a little Faraday pouch in my bag -- these are little wallets lined with a 
 
 "Introduction to Physics?" I groaned. The book was the size of a dictionary.
 
-**Chapter 2**
+### Chapter 2
+
 "I'm thinking of majoring in physics when I go to Berkeley," Darryl said. His dad taught at the University of California at Berkeley, which meant he'd get free tuition when he went. And there'd never been any question in Darryl's household about whether he'd go.
 
 "Fine, but couldn't you research it online?"
@@ -563,7 +565,8 @@ The girl with the pink hair grabbed her friends and they tore ass downhill, back
 
 "Down to the BART station," I hollered. My friends nodded. We closed ranks and began to move quickly downhill.
 
-**Chapter 3**
+### Chapter 3
+
 We passed a lot of people in the road on the way to the Powell Street BART. They were running or walking, white-faced and silent or shouting and panicked. Homeless people cowered in doorways and watched it all, while a tall black trans hooker shouted at two mustached young men about something.
 
 The closer we got to the BART, the worse the press of bodies became. By the time we reached the stairway down into the station, it was a mob-scene, a huge brawl of people trying to crowd their way down a narrow staircase. I had my face crushed up against someone's back, and someone else was pressed into my back.
@@ -808,7 +811,8 @@ Severe haircut lady looked at me like I was a bug. "You're under the mistaken im
 
 In hindsight, maybe I should have unlocked my phone for them.
 
-**Chapter 4**
+### Chapter 4
+
 They re-shackled and re-hooded me and left me there. A long time later, the truck started to move, rolling downhill, and then I was hauled back to my feet. I immediately fell over. My legs were so asleep they felt like blocks of ice, all except my knees, which were swollen and tender from all the hours of kneeling.
 
 Hands grabbed my shoulders and feet and I was picked up like a sack of potatoes. There were indistinct voices around me. Someone crying. Someone cursing.
@@ -1077,7 +1081,8 @@ I was free.
 
 Then strong arms threw themselves around me. I nearly cried.
 
-**Chapter 5**
+### Chapter 5
+
 But it was Van, and she _was_ crying, and hugging me so hard I couldn't breathe. I didn't care. I hugged her back, my face buried in her hair.
 
 "You're OK!" she said.
@@ -1370,7 +1375,8 @@ And the best part -- as far as I was concerned -- was that ParanoidXbox was _par
 
 All I had to do now was convince everyone I knew to use it too.
 
-**Chapter 6**
+### Chapter 6
+
 Believe it or not, my parents made me go to school the next day. I'd only fallen into feverish sleep at three in the morning, but at seven the next day, my Dad was standing at the foot of my bed, threatening to drag me out by the ankles. I managed to get up -- something had died in my mouth after painting my eyelids shut -- and into the shower.
 
 I let my mom force a piece of toast and a banana into me, wishing fervently that my parents would let me drink coffee at home. I could sneak one on the way to school, but watching them sip down their black gold while I was drag-assing around the house, getting dressed and putting my books in my bag -- it was awful.
@@ -1565,7 +1571,8 @@ The other one flipped down a flap on the front of his windbreaker to reveal a SF
 
 I wasn't going to run, though. I knew I couldn't outrun fate.
 
-**Chapter 7**
+### Chapter 7
+
 They took me outside and around the corner, to a waiting unmarked police car. It wasn't like anyone in that neighborhood would have had a hard time figuring out that it was a cop-car, though. Only police drive big Crown Victorias now that gas had hit seven bucks a gallon. What's more, only cops could double-park in the middle of Van Ness street without getting towed by the schools of predatory tow-operators that circled endlessly, ready to enforce San Francisco's incomprehensible parking regulations and collect a bounty for kidnapping your car.
 
 Booger blew his nose. I was sitting in the back seat, and so was he. His partner was sitting in the front, typing with one finger on an ancient, ruggedized laptop that looked like Fred Flintstone had been its original owner.
@@ -1858,7 +1865,8 @@ Those are complicated machines, those things, and they're off-limits to the like
 
 We wrote a lot of code that night.
 
-**Chapter 8**
+### Chapter 8
+
 I wasn't the only one who got screwed up by the histograms. There are lots of people who have abnormal traffic patterns, abnormal usage patterns. Abnormal is so common, it's practically normal.
 
 The Xnet was full of these stories, and so were the newspapers and the TV news. Husbands were caught cheating on their wives; wives were caught cheating on their husbands, kids were caught sneaking out with illicit girlfriends and boyfriends. A kid who hadn't told his parents he had AIDS got caught going to the clinic for his drugs.
@@ -2047,7 +2055,8 @@ The best part: Dad got home that night late. Very late. Three _hours_ late. Why?
 
 Twice!
 
-**Chapter 9**
+### Chapter 9
+
 He was so angry I thought he was going to pop. You know I said I'd only seen him lose his cool rarely? That night, he lost it more than he ever had.
 
 "You wouldn't believe it. This cop, he was like eighteen years old and he kept saying, 'But sir, why were you in Berkeley yesterday if your client is in Mountain View?' I kept explaining to him that I teach at Berkeley and then he'd say, 'I thought you were a consultant,' and we'd start over again. It was like some kind of sitcom where the cops have been taken over by the stupidity ray.
@@ -2381,7 +2390,8 @@ he typed.
 > Sutro baths!
 ```
 
-**Chapter 10**
+### Chapter 10
+
 What would you do if you found out you had a spy in your midst? You could denounce him, put him up against the wall and take him out. But then you might end up with another spy in your midst, and the new spy would be more careful than the last one and maybe not get caught quite so readily.
 
 Here's a better idea: start intercepting the spy's communications and feed him and his masters misinformation. Say his masters instruct him to gather information on your movements. Let him follow you around and take all the notes he wants, but steam open the envelopes that he sends back to HQ and replace his account of your movements with a fictitious one. If you want, you can make him seem erratic and unreliable so they get rid of him. You can manufacture crises that might make one side or the other reveal the identities of other spies. In short, you own them.
@@ -2584,7 +2594,8 @@ I held up a laptop Jolu and I had rebuilt the night before, from the ground up. 
 
 They all boggled at me. OK, so I'd asked them to do something pretty weird, it's true, but still.
 
-**Chapter 11**
+### Chapter 11
+
 Jolu stood up.
 
 "This is where it starts, guys. This is how we know which side you're on. You might not be willing to take to the streets and get busted for your beliefs, but if you _have_ beliefs, this will let us know it. This will create the web of trust that tells us who's in and who's out. If we're ever going to get our country back, we need to do this. We need to do something like this."
@@ -2874,7 +2885,8 @@ I found it. I stood up. Ms Galvez looked expectantly at me. The other people fol
 
 "I wanted to read something," I said. "It's short. 'Governments are instituted among men, deriving their just powers from the consent of the governed, that whenever any form of government becomes destructive of these ends, it is the right of the people to alter or abolish it, and to institute new government, laying its foundation on such principles, and organizing its powers in such form, as to them shall seem most likely to effect their safety and happiness.'"
 
-**Chapter 12**
+### Chapter 12
+
 Ms Galvez's smile was wide.
 
 "Does anyone know what that comes from?"
@@ -3224,7 +3236,8 @@ I'd made arrangements to meet Ange at a cafe in her neighborhood after school. I
 
 I got up and moved to another seat.
 
-**Chapter 13**
+### Chapter 13
+
 "They're total whores," Ange said, spitting the word out. "In fact, that's an insult to hardworking whores everywhere. They're, they're _profiteers_."
 
 We were looking at a stack of newspapers we'd picked up and brought to the cafe. They all contained "reporting" on the party in Dolores Park and to a one, they made it sound like a drunken, druggy orgy of kids who'd attacked the cops. _USA Today_ described the cost of the "riot" and included the cost of washing away the pepper-spray residue from the gas-bombing, the rash of asthma attacks that clogged the city's emergency rooms, and the cost of processing the eight hundred arrested "rioters."
@@ -3504,7 +3517,8 @@ I looked at him.
 
 I left.
 
-**Chapter 14**
+### Chapter 14
+
 The Xnet wasn't much fun in the middle of the school-day, when all the people who used it were in school. I had the piece of paper folded in the back pocket of my jeans, and I threw it on the kitchen table when I got home. I sat down in the living room and switched on the TV. I never watched it, but I knew that my parents did. The TV and the radio and the newspapers were where they got all their ideas about the world.
 
 The news was terrible. There were so many reasons to be scared. American soldiers were dying all over the world. Not just soldiers, either. National guardsmen, who thought they were signing up to help rescue people from hurricanes, stationed overseas for years and years of a long and endless war.
@@ -3779,7 +3793,8 @@ We ordered more coffee.
 
 "That too," I said.
 
-**Chapter 15**
+### Chapter 15
+
 I blogged the press-conference even before I'd sent out the invitations to the press. I could tell that all these writers wanted to make me into a leader or a general or a supreme guerrilla commandant, and I figured one way of solving that would be to have a bunch of Xnetters running around answering questions too.
 
 Then I emailed the press. The responses ranged from puzzled to enthusiastic -- only the Fox reporter was "outraged" that I had the gall to ask her to play a game in order to appear on her TV show. The rest of them seemed to think that it would make a pretty cool story, though plenty of them wanted lots of tech support for signing onto the game
@@ -4160,7 +4175,8 @@ Everything.
 
 Well, most of it.
 
-**Chapter 16**
+### Chapter 16
+
 At first Mom looked shocked, then outraged, and finally she gave up altogether and just let her jaw hang open as I took her through the interrogation, pissing myself, the bag over my head, Darryl. I showed her the note.
 
 "Why --?"
@@ -4483,7 +4499,8 @@ I did. If the Xnet was part of the story, some people would say, see, they need 
 
 "I've got a while," Barbara said. She drank some coffee and ate a fake Oreo. "This could be the most important story of the War on Terror. This could be the story that topples the government. When you have a story like this, you take it very carefully."
 
-**Chapter 17**
+### Chapter 17
+
 So we told her. I found it really fun, actually. Teaching people how to use technology is always exciting. It's so cool to watch people figure out how the technology around them can be used to make their lives better. Ange was great too -- we made an excellent team. We'd trade off explaining how it all worked. Barbara was pretty good at this stuff to begin with, of course.
 
 It turned out that she'd covered the crypto wars, the period in the early nineties when civil liberties groups like the Electronic Frontier Foundation fought for the right of Americans to use strong crypto. I dimly knew about that period, but Barbara explained it in a way that made me get goose-pimples.
@@ -4789,7 +4806,8 @@ Your brain comes up with stuff like that even when the train ride only lasts two
 
 Sometimes your brain gives you solutions in addition to problems.
 
-**Chapter 18**
+### Chapter 18
+
 There was a time when my favorite thing in the world was putting on a cape and hanging out in hotels, pretending to be an invisible vampire whom everyone stared at.
 
 It's complicated, and not nearly as weird as it sounds. The Live Action Role Playing scene combines the best aspects of D&D with drama club with going to sci-fi cons.
@@ -5051,7 +5069,8 @@ Dinner was actually really good. The ice broke when Ange took out her hot-sauce 
 
 Before she left, Ange pressed the hot-sauce mister on Mom. "I have a spare at home," she said. I'd watched her pack it in her backpack. "You seem like the kind of woman who should have one of these."
 
-**Chapter 19**
+### Chapter 19
+
 Here's the email that went out at 7AM the next day, while Ange and I were spray-painting VAMP-MOB CIVIC CENTER -> -> at strategic locations around town.
 
 ```
@@ -5387,7 +5406,8 @@ The rolling truck door was open a crack and I dove for it, slithering out under 
 
 I padlocked the truck instead.
 
-**Chapter 20**
+### Chapter 20
+
 None of the three guys were around at the moment, so I took off. My head hurt so much I thought I must be bleeding, but my hands came away dry. My twisted ankle had frozen up in the truck so that I ran like a broken marionette, and I stopped only once, to cancel the photo-deletion on Masha's phone. I turned off its radio -- both to save battery and to keep it from being used to track me -- and set the sleep timer to two hours, the longest setting available. I tried to set it to not require a password to wake from sleep, but that required a password itself. I was just going to have to tap the keypad at least once every two hours until I could figure out how to get the photo off of the phone. I would need a charger, then.
 
 I didn't have a plan. I needed one. I needed to sit down, to get online -- to figure out what I was going to do next. I was sick of letting other people do my planning for me. I didn't want to be acting because of what Masha did, or because of the DHS, or because of my dad. Or because of Ange? Well, maybe I'd act because of Ange. That would be just fine, in fact.
@@ -5838,7 +5858,8 @@ I started to ask what they were doing there, and that's when I saw Barbara Strat
 
 That's when I knew it -- Guantanamo by the Bay was in the hands of its enemies. I was saved.
 
-**Chapter 21**
+### Chapter 21
+
 They left me and Barbara alone in the room then, and I used the working shower head to rinse off -- I was suddenly embarrassed to be covered in piss and barf. When I finished, Barbara was in tears.
 
 "Your parents --" she began.
