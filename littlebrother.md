@@ -53,6 +53,12 @@ See the end of this file for the complete legalese.
 - [Chapter 19](#chapter-19)
 - [Chapter 20](#chapter-20)
 - [Chapter 21](#chapter-21)
+- [Epilogue](#epilogue)
+- [Afterword by Bruce Schneier](#afterword-1)
+- [Afterword by Andrew "bunnie" Huang, Xbox Hacker](#afterword-2)
+- [Bibliography](#bibliography) {#bibliography}
+- [Acknowledgments](#acknowledgments)
+- [Creative Commons](creative-commons)
 
 ## INTRODUCTION
 
@@ -107,6 +113,7 @@ We need to be having this conversation all over the planet.
 Want to get a copy in the UK? [Sure thing!](http://craphound.com/littlebrother/buy/#uk)
 
 **OTHER EDITIONS**
+
 My agent, Russell Galen (and his sub-agent Danny Baror) did an amazing job of pre-selling rights to Little Brother in many languages and formats. Here's the list as of today (May 4, 2008). I'll be updating it as more editions are sold, so feel free to grab another copy of this file (http://craphound.com/littlebrother/download) if there's an edition you're hoping to see, or see http://craphound.com/littlebrother/buy/ for links to buy all the currently shipping editions.
 
 * [Audiobook from Random House.](http://www.randomhouse.com/audio/littlebrotheraudiobook)
@@ -124,7 +131,7 @@ My foreign rights agent, Danny Baror, has presold a number of foreign editions:
 
 No publication dates yet for these, but I'll keep updating this file as more information is available. You can also subscribe to my mailing list for more info.
 
-**THE COPYRIGHT THING**
+## [THE COPYRIGHT THING](#copyright-thing) {#copyright-thing}
 
 The Creative Commons license at the top of this file probably tipped you off to the fact that I've got some pretty unorthodox views about copyright. Here's what I think of it, in a nutshell: a little goes a long way, and more than that is too much.
 
@@ -182,11 +189,11 @@ If you enjoyed the electronic edition of Little Brother and you want to donate s
 
 I have no idea if this will end up with hundreds, dozens or just a few copies going out -- but I have high hopes!
 
-**DEDICATION**
+## [DEDICATION](#dedication) {#dedication}
 
 For Alice, who makes me whole
 
-**QUOTES**
+## [QUOTES](#quotes) {#quotes}
 
 > A rousing tale of techno-geek rebellion, as necessary and dangerous as file sharing, free speech, and bottled water on a plane.
 
@@ -230,7 +237,9 @@ For Alice, who makes me whole
 
 Every chapter of this file has been dedicated to a different bookstore, and in each case, it's a store that I love, a store that's helped me discover books that opened my mind, a store that's helped my career along. The stores didn't pay me anything for this -- I haven't even told them about it -- but it seems like the right thing to do. After all, I'm hoping that you'll read this ebook and decide to buy the paper book, so it only makes sense to suggest a few places you can pick it up!
 
-### [Chapter 1](#chapter-1) {#chapter-1}
+**Note from the HTML to Markdown translator:** Although many of these were singular bookstores, many others were huge corporations, including Amazon. I wasn't a fan of how this particular book kept being interrupted so that the author could tell me about corporations that also happen to be bookstores. So, I've removed them. If you want to see them, you can find the original online publication (*without *HTTPS**) [here](http://craphound.com/littlebrother/Cory_Doctorow_-_Little_Brother.htm).
+
+## [Chapter 1](#chapter-1) {#chapter-1}
 
 I'm a senior at Cesar Chavez high in San Francisco's sunny Mission district, and that makes me one of the most surveilled people in the world. My name is Marcus Yallow, but back when this story starts, I was going by w1n5t0n. Pronounced "Winston."
 
@@ -412,7 +421,7 @@ I had a little Faraday pouch in my bag -- these are little wallets lined with a 
 
 "Introduction to Physics?" I groaned. The book was the size of a dictionary.
 
-### [Chapter 2](#chapter-2) {#chapter-2}
+## [Chapter 2](#chapter-2) {#chapter-2}
 
 "I'm thinking of majoring in physics when I go to Berkeley," Darryl said. His dad taught at the University of California at Berkeley, which meant he'd get free tuition when he went. And there'd never been any question in Darryl's household about whether he'd go.
 
@@ -590,7 +599,7 @@ The girl with the pink hair grabbed her friends and they tore ass downhill, back
 
 "Down to the BART station," I hollered. My friends nodded. We closed ranks and began to move quickly downhill.
 
-### [Chapter 3](#chapter-3) {#chapter-3}
+## [Chapter 3](#chapter-3) {#chapter-3}
 
 We passed a lot of people in the road on the way to the Powell Street BART. They were running or walking, white-faced and silent or shouting and panicked. Homeless people cowered in doorways and watched it all, while a tall black trans hooker shouted at two mustached young men about something.
 
@@ -836,7 +845,7 @@ Severe haircut lady looked at me like I was a bug. "You're under the mistaken im
 
 In hindsight, maybe I should have unlocked my phone for them.
 
-### [Chapter 4](#chapter-4) {#chapter-4}
+## [Chapter 4](#chapter-4) {#chapter-4}
 
 They re-shackled and re-hooded me and left me there. A long time later, the truck started to move, rolling downhill, and then I was hauled back to my feet. I immediately fell over. My legs were so asleep they felt like blocks of ice, all except my knees, which were swollen and tender from all the hours of kneeling.
 
@@ -1106,7 +1115,7 @@ I was free.
 
 Then strong arms threw themselves around me. I nearly cried.
 
-### [Chapter 5](#chapter-5) {#chapter-5}
+## [Chapter 5](#chapter-5) {#chapter-5}
 
 But it was Van, and she _was_ crying, and hugging me so hard I couldn't breathe. I didn't care. I hugged her back, my face buried in her hair.
 
@@ -1400,7 +1409,7 @@ And the best part -- as far as I was concerned -- was that ParanoidXbox was _par
 
 All I had to do now was convince everyone I knew to use it too.
 
-### [Chapter 6](#chapter-6) {#chapter-6}
+## [Chapter 6](#chapter-6) {#chapter-6}
 
 Believe it or not, my parents made me go to school the next day. I'd only fallen into feverish sleep at three in the morning, but at seven the next day, my Dad was standing at the foot of my bed, threatening to drag me out by the ankles. I managed to get up -- something had died in my mouth after painting my eyelids shut -- and into the shower.
 
@@ -1596,7 +1605,7 @@ The other one flipped down a flap on the front of his windbreaker to reveal a SF
 
 I wasn't going to run, though. I knew I couldn't outrun fate.
 
-### [Chapter 7](#chapter-7) {#chapter-7}
+## [Chapter 7](#chapter-7) {#chapter-7}
 
 They took me outside and around the corner, to a waiting unmarked police car. It wasn't like anyone in that neighborhood would have had a hard time figuring out that it was a cop-car, though. Only police drive big Crown Victorias now that gas had hit seven bucks a gallon. What's more, only cops could double-park in the middle of Van Ness street without getting towed by the schools of predatory tow-operators that circled endlessly, ready to enforce San Francisco's incomprehensible parking regulations and collect a bounty for kidnapping your car.
 
@@ -1890,7 +1899,7 @@ Those are complicated machines, those things, and they're off-limits to the like
 
 We wrote a lot of code that night.
 
-### [Chapter 8](#chapter-8) {#chapter-8}
+## [Chapter 8](#chapter-8) {#chapter-8}
 
 I wasn't the only one who got screwed up by the histograms. There are lots of people who have abnormal traffic patterns, abnormal usage patterns. Abnormal is so common, it's practically normal.
 
@@ -2080,7 +2089,7 @@ The best part: Dad got home that night late. Very late. Three _hours_ late. Why?
 
 Twice!
 
-### [Chapter 9](#chapter-9) {#chapter-9}
+## [Chapter 9](#chapter-9) {#chapter-9}
 
 He was so angry I thought he was going to pop. You know I said I'd only seen him lose his cool rarely? That night, he lost it more than he ever had.
 
@@ -2415,7 +2424,7 @@ he typed.
 > Sutro baths!
 ```
 
-### [Chapter 10](#chapter-10) {#chapter-10}
+## [Chapter 10](#chapter-10) {#chapter-10}
 
 What would you do if you found out you had a spy in your midst? You could denounce him, put him up against the wall and take him out. But then you might end up with another spy in your midst, and the new spy would be more careful than the last one and maybe not get caught quite so readily.
 
@@ -2619,7 +2628,7 @@ I held up a laptop Jolu and I had rebuilt the night before, from the ground up. 
 
 They all boggled at me. OK, so I'd asked them to do something pretty weird, it's true, but still.
 
-### [Chapter 11](#chapter-11) {#chapter-11}
+## [Chapter 11](#chapter-11) {#chapter-11}
 
 Jolu stood up.
 
@@ -2910,7 +2919,7 @@ I found it. I stood up. Ms Galvez looked expectantly at me. The other people fol
 
 "I wanted to read something," I said. "It's short. 'Governments are instituted among men, deriving their just powers from the consent of the governed, that whenever any form of government becomes destructive of these ends, it is the right of the people to alter or abolish it, and to institute new government, laying its foundation on such principles, and organizing its powers in such form, as to them shall seem most likely to effect their safety and happiness.'"
 
-### [Chapter 12](#chapter-12) {#chapter-12}
+## [Chapter 12](#chapter-12) {#chapter-12}
 
 Ms Galvez's smile was wide.
 
@@ -3261,7 +3270,7 @@ I'd made arrangements to meet Ange at a cafe in her neighborhood after school. I
 
 I got up and moved to another seat.
 
-### [Chapter 13](#chapter-13) {#chapter-13}
+## [Chapter 13](#chapter-13) {#chapter-13}
 
 "They're total whores," Ange said, spitting the word out. "In fact, that's an insult to hardworking whores everywhere. They're, they're _profiteers_."
 
@@ -3542,7 +3551,7 @@ I looked at him.
 
 I left.
 
-### [Chapter 14](#chapter-14) {#chapter-14}
+## [Chapter 14](#chapter-14) {#chapter-14}
 
 The Xnet wasn't much fun in the middle of the school-day, when all the people who used it were in school. I had the piece of paper folded in the back pocket of my jeans, and I threw it on the kitchen table when I got home. I sat down in the living room and switched on the TV. I never watched it, but I knew that my parents did. The TV and the radio and the newspapers were where they got all their ideas about the world.
 
@@ -3818,7 +3827,7 @@ We ordered more coffee.
 
 "That too," I said.
 
-### [Chapter 15](#chapter-15) {#chapter-15}
+## [Chapter 15](#chapter-15) {#chapter-15}
 
 I blogged the press-conference even before I'd sent out the invitations to the press. I could tell that all these writers wanted to make me into a leader or a general or a supreme guerrilla commandant, and I figured one way of solving that would be to have a bunch of Xnetters running around answering questions too.
 
@@ -4200,7 +4209,7 @@ Everything.
 
 Well, most of it.
 
-### [Chapter 16](#chapter-16) {#chapter-16}
+## [Chapter 16](#chapter-16) {#chapter-16}
 
 At first Mom looked shocked, then outraged, and finally she gave up altogether and just let her jaw hang open as I took her through the interrogation, pissing myself, the bag over my head, Darryl. I showed her the note.
 
@@ -4524,7 +4533,7 @@ I did. If the Xnet was part of the story, some people would say, see, they need 
 
 "I've got a while," Barbara said. She drank some coffee and ate a fake Oreo. "This could be the most important story of the War on Terror. This could be the story that topples the government. When you have a story like this, you take it very carefully."
 
-### [Chapter 17](#chapter-17) {#chapter-17}
+## [Chapter 17](#chapter-17) {#chapter-17}
 
 So we told her. I found it really fun, actually. Teaching people how to use technology is always exciting. It's so cool to watch people figure out how the technology around them can be used to make their lives better. Ange was great too -- we made an excellent team. We'd trade off explaining how it all worked. Barbara was pretty good at this stuff to begin with, of course.
 
@@ -4831,7 +4840,7 @@ Your brain comes up with stuff like that even when the train ride only lasts two
 
 Sometimes your brain gives you solutions in addition to problems.
 
-### [Chapter 18](#chapter-18) {#chapter-18}
+## [Chapter 18](#chapter-18) {#chapter-18}
 
 There was a time when my favorite thing in the world was putting on a cape and hanging out in hotels, pretending to be an invisible vampire whom everyone stared at.
 
@@ -5094,7 +5103,7 @@ Dinner was actually really good. The ice broke when Ange took out her hot-sauce 
 
 Before she left, Ange pressed the hot-sauce mister on Mom. "I have a spare at home," she said. I'd watched her pack it in her backpack. "You seem like the kind of woman who should have one of these."
 
-### [Chapter 19](#chapter-19) {#chapter-19}
+## [Chapter 19](#chapter-19) {#chapter-19}
 
 Here's the email that went out at 7AM the next day, while Ange and I were spray-painting VAMP-MOB CIVIC CENTER -> -> at strategic locations around town.
 
@@ -5431,7 +5440,7 @@ The rolling truck door was open a crack and I dove for it, slithering out under 
 
 I padlocked the truck instead.
 
-### [Chapter 20](#chapter-20) {#chapter-20}
+## [Chapter 20](#chapter-20) {#chapter-20}
 
 None of the three guys were around at the moment, so I took off. My head hurt so much I thought I must be bleeding, but my hands came away dry. My twisted ankle had frozen up in the truck so that I ran like a broken marionette, and I stopped only once, to cancel the photo-deletion on Masha's phone. I turned off its radio -- both to save battery and to keep it from being used to track me -- and set the sleep timer to two hours, the longest setting available. I tried to set it to not require a password to wake from sleep, but that required a password itself. I was just going to have to tap the keypad at least once every two hours until I could figure out how to get the photo off of the phone. I would need a charger, then.
 
@@ -5883,7 +5892,7 @@ I started to ask what they were doing there, and that's when I saw Barbara Strat
 
 That's when I knew it -- Guantanamo by the Bay was in the hands of its enemies. I was saved.
 
-### [Chapter 21](#chapter-21) {#chapter-21}
+## [Chapter 21](#chapter-21) {#chapter-21}
 
 They left me and Barbara alone in the room then, and I used the working shower head to rinse off -- I was suddenly embarrassed to be covered in piss and barf. When I finished, Barbara was in tears.
 
@@ -6065,11 +6074,7 @@ I heard my parents and Darryl's dad take a step away, drawing the curtains aroun
 
 He snored a little. I almost said, "I love you," a phrase I'd only said to one non-family-member ever, a phrase that was weird to say to another guy. In the end, I just gave his hand another squeeze. Poor Darryl.
 
-**Epilogue**
-
-_This chapter is dedicated to Hudson Booksellers, the booksellers that are in practically every airport in the USA. Most of the Hudson stands have just a few titles (though those are often surprisingly diverse), but the big ones, like the one in the AA terminal at Chicago's O'Hare, are as good as any neighborhood store. It takes something special to bring a personal touch to an airport, and Hudson's has saved my mind on more than one long Chicago layover._
-
-_[Hudson Booksellers](http://www.hudsongroup.com/HudsonBooksellers_s.html)_
+## [Epilogue](#epilogue) {#epilogue}
 
 Barbara called me at the office on July 4th weekend. I wasn't the only one who'd come into work on the holiday weekend, but I was the only one whose excuse was that my day-release program wouldn't let me leave town.
 
@@ -6195,7 +6200,7 @@ I held Ange out at arm's length and looked her up and down and up and down. I he
 
 She kissed me then, and I kissed her back, and it was some time before we went out for that burrito.
 
-**Afterword by Bruce Schneier**
+## [Afterword by Bruce Schneier](#afterword-1) #{afterword-1}
 
 I'm a security technologist. My job is making people secure.
 
@@ -6233,7 +6238,7 @@ So close the book and go. The world is full of security systems. Hack one of the
 
 [Bruce Schneier](http://www.schneier.com)
 
-**Afterword by Andrew "bunnie" Huang, Xbox Hacker**
+## [Afterword by Andrew "bunnie" Huang, Xbox Hacker](#afterword-2) #{afterword-2}
 
 Hackers are explorers, digital pioneers. It's in a hacker's nature to question conventions and be tempted by intricate problems. Any complex system is sport for a hacker; a side effect of this is the hacker's natural affinity for problems involving security. Society is a large and complex system, and is certainly not off limits to a little hacking. As a result, hackers are often stereotyped as iconoclasts and social misfits, people who defy social norms for the sake of defiance. When I hacked the Xbox in 2002 while at MIT, I wasn’t doing it to rebel or to cause harm; I was just following a natural impulse, the same impulse that leads to fixing a broken iPod or exploring the roofs and tunnels at MIT.
 
@@ -6251,7 +6256,7 @@ The truth is that we can't count on someone else to make us feel free, and M1k3y
 
 Be like M1k3y: step out the door and dare to be free.
 
-**Bibliography**
+## [Bibliography](#bibliography) {#bibliography}
 
 No writer creates from scratch -- we all engage in what Isaac Newton called ["standing on the shoulders of giants."](http://en.wikiquote.org/wiki/Isaac_Newton) We borrow, plunder and remix the art and culture created by those around us and by our literary forebears.  
 
@@ -6307,7 +6312,7 @@ Many novelists have tackled parts of the story in Little Brother. Daniel Pinkwat
 
 On a more contemporary front, there's Scott Westerfeld's ["So Yesterday"](http://www.amazon.com/So-Yesterday-Scott-Westerfeld/dp/1595140328/ref=sr_1_1?ie=UTF8&s=books&qid=1219360144&sr=1-1) (Razorbill, 2004), which follows the adventures of cool hunters and counterculture jammers. Scott and his wife Justine Larbalestier were my partial inspiration to write a book for young adults -- as was Kathe Koja. Thanks, guys.
 
-**Acknowledgments**
+## [Acknowledgments](#acknowledgments) #{acknowledgments}
 
 This book owes a tremendous debt to many writers, friends, mentors, and heroes who made it possible.
 
@@ -6323,7 +6328,7 @@ For the mentors: Judy Merril, Roz and Gord Doctorow, Harriet Wolff, Jim Kelly, D
 
 Thank you all for giving me the tools to think and write about these ideas.
 
-**Creative Commons**
+## [Creative Commons](creative-commons) #{creative-commons}
 
 Creative Commons Legal Code
 
