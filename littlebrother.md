@@ -195,7 +195,7 @@ For Alice, who makes me whole
 
 > A worthy younger sibling to Orwell's 1984, Cory Doctorow's LITTLE BROTHER is lively, precocious, and most importantly, a little scary.
 
-> Brian K Vaughn, author of Y: THE LAST MAN
+-- Brian K Vaughn, author of Y: THE LAST MAN
 
 > "Little Brother" sounds an optimistic warning. It extrapolates from current events to remind us of the ever-growing threats to liberty. But it also notes that liberty ultimately resides in our individual attitudes and actions. In our increasingly authoritarian world, I especially hope that teenagers and young adults will read it -- and then persuade their peers, parents and teachers to follow suit.
 
