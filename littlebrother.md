@@ -237,7 +237,7 @@ For Alice, who makes me whole
 
 Every chapter of this file has been dedicated to a different bookstore, and in each case, it's a store that I love, a store that's helped me discover books that opened my mind, a store that's helped my career along. The stores didn't pay me anything for this -- I haven't even told them about it -- but it seems like the right thing to do. After all, I'm hoping that you'll read this ebook and decide to buy the paper book, so it only makes sense to suggest a few places you can pick it up!
 
-**Note from the HTML to Markdown translator:** Although many of these were singular bookstores, many others were huge corporations, including Amazon. I wasn't a fan of how this particular book kept being interrupted so that the author could tell me about corporations that also happen to be bookstores. So, I've removed them. If you want to see them, you can find the original online publication (*without *HTTPS**) [here](http://craphound.com/littlebrother/Cory_Doctorow_-_Little_Brother.htm).
+**Note from the HTML to Markdown translator:** I have moved these to the end of the book rather than opening each chapter with them. You can find them all [here](#dedications). Although plenty of these were specific bookstores, there were also dedications like Amazon or Barns and Noble. I didn't like that this particular book kept presenting me with corporations. If you'd rather read the original HTML version with the dedications intact, you can find it (**without HTTPS**) [here](http://craphound.com/littlebrother/Cory_Doctorow_-_Little_Brother.htm).
 
 ## [Chapter 1](#chapter-1) {#chapter-1}
 
@@ -6327,6 +6327,97 @@ For the friends: Fiona Romeo, Quinn Norton, Danny O'Brien, Jon Gilbert, danah bo
 For the mentors: Judy Merril, Roz and Gord Doctorow, Harriet Wolff, Jim Kelly, Damon Knight, Scott Edelman
 
 Thank you all for giving me the tools to think and write about these ideas.
+
+
+## Dedications
+
+### Chapter 1
+
+_This chapter is dedicated to BakkaPhoenix Books in Toronto, Canada. Bakka is the oldest science fiction bookstore in the world, and it made me the mutant I am today. I wandered in for the first time around the age of 10 and asked for some recommendations. Tanya Huff (yes,_ <span style="font-style: normal">the</span> _Tanya Huff, but she wasn't a famous writer back then!) took me back into the used section and pressed a copy of H. Beam Piper's "Little Fuzzy" into my hands, and changed my life forever. By the time I was 18, I was working at Bakka -- I took over from Tanya when she retired to write full time -- and I learned life-long lessons about how and why people buy books. I think every writer should work at a bookstore (and plenty of writers have worked at Bakka over the years! For the 30th anniversary of the store, they put together an anthology of stories by Bakka writers that included work by Michelle Sagara (AKA Michelle West), Tanya Huff, Nalo Hopkinson, Tara Tallan --and me!)_
+
+### Chapter 2
+
+_This chapter is dedicated to Amazon.com, the largest Internet bookseller in the world. Amazon is_ <span style="font-style: normal">amazing</span> _-- a "store" where you can get practically any book ever published (along with practically everything else, from laptops to cheese-graters), where they've elevated recommendations to a high art, where they allow customers to directly communicate with each other, where they are constantly inventing new and better ways of connecting books with readers. Amazon has always treated me like gold -- the founder, Jeff Bezos, even posted a reader-review for my first novel! -- and I shop there like crazy (looking at my spreadsheets, it appears that I buy something from Amazon approximately every_ <span style="font-style: normal">six days</span>_). Amazon's in the process of reinventing what it means to be a bookstore in the twenty-first century and I can't think of a better group of people to be facing down that thorny set of problems._
+
+### Chapter 3
+
+_This chapter is dedicated to Borderlands Books, San Francisco's magnificent independent science fiction bookstore. Borderlands is basically located across the street from the fictional Cesar Chavez High depicted in Little Brother, and it's not just notorious for its brilliant events, signings, book clubs and such, but also for its amazing hairless Egyptian cat, Ripley, who likes to perch like a buzzing gargoyle on the computer at the front of the store. Borderlands is about the friendliest bookstore you could ask for, filled with comfy places to sit and read, and staffed by incredibly knowledgeable clerks who know everything there is to know about science fiction. Even better, they've always been willing to take orders for my book (by net or phone) and hold them for me to sign when I drop into the store, then they ship them within the US for free!_
+
+### Chapter 5
+
+_This chapter is dedicated to Barnes and Noble, a US national chain of bookstores. As America's mom-and-pop bookstores were vanishing, Barnes and Noble started to build these gigantic temples to reading all across the land. Stocking tens of thousands of titles (the mall bookstores and grocery-store spinner racks had stocked a small fraction of that) and keeping long hours that were convenient to families, working people and others potential readers, the B&N stores kept the careers of many writers afloat, stocking titles that smaller stores couldn't possibly afford to keep on their limited shelves. B&N has always had strong community outreach programs, and I've done some of my best-attended, best-organized signings at B&N stores, including the great events at the (sadly departed) B&N in Union Square, New York, where the mega-signing after the Nebula Awards took place, and the B&N in Chicago that hosted the event after the Nebs a few years later. Best of all is that B&N's "geeky" buyers really Get It when it comes to science fiction, comics and manga, games and similar titles. They're passionate and knowledgeable about the field and it shows in the excellent selection on display at the stores._
+
+### Chapter 5
+
+_This chapter is dedicated to Secret Headquarters in Los Angeles, my drop-dead all-time favorite comic store in the world. It's small and selective about what it stocks, and every time I walk in, I walk out with three or four collections I'd never heard of under my arm. It's like the owners, Dave and David, have the uncanny ability to predict exactly what I'm looking for, and they lay it out for me seconds before I walk into the store. I discovered about three quarters of my favorite comics by wandering into SHQ, grabbing something interesting, sinking into one of the comfy chairs, and finding myself transported to another world. When my second story-collection, OVERCLOCKED, came out, they worked with local illustrator Martin Cenreda to do a free mini-comic based on Printcrime, the first story in the book. I left LA about a year ago, and of all the things I miss about it, Secret Headquarters is right at the top of the list._
+
+### Chapter 6
+
+_This chapter is dedicated to Powell's Books, the legendary "City of Books" in Portland, Oregon. Powell's is the largest bookstore in the world, an endless, multi-storey universe of papery smells and towering shelves. They stock new and used books on the same shelves -- something I've always loved -- and every time I've stopped in, they've had a veritable mountain of my books, and they've been incredibly gracious about asking me to sign the store-stock. The clerks are friendly, the stock is fabulous, and there's even a Powell's at the Portland airport, making it just about the best airport bookstore in the world for my money!_
+
+### Chapter 7
+
+_This chapter is dedicated to New York City's Books of Wonder, the oldest and largest kids' bookstore in Manhattan. They're located just a few blocks away from Tor Books' offices in the Flatiron Building and every time I drop in to meet with the Tor people, I always sneak away to Books of Wonder to peruse their stock of new, used and rare kids' books. I'm a heavy collector of rare editions of Alice in Wonderland, and Books of Wonder never fails to excite me with some beautiful, limited-edition Alice. They have tons of events for kids and one of the most inviting atmospheres I've ever experienced at a bookstore._
+
+### Chapter 8
+
+_This chapter is dedicated to Borders, the global bookselling giant that you can find in cities all over the world -- I'll never forget walking into the gigantic Borders on Orchard Road in Singapore and discovering a shelf loaded with my novels! For many years, the Borders in Oxford Street in London hosted Pat Cadigan's monthly science fiction evenings, where local and visiting authors would read their work, speak about science fiction and meet their fans. When I'm in a strange city (which happens a lot) and I need a great book for my next flight, there always seems to be a Borders brimming with great choices -- I'm especially partial to the Borders on Union Square in San Francisco._
+
+### Chapter 9
+
+_This chapter is dedicated to Compass Books/Books Inc, the oldest independent bookstore in the western USA. They've got stores up and down California, in San Francisco, Burlingame, Mountain View and Palo Alto, but coolest of all is that they run a killer bookstore in the middle of Disneyland's Downtown Disney in Anaheim. I'm a stone Disney park freak (see my first novel, Down and Out in the Magic Kingdom if you don't believe it), and every time I've lived in California, I've bought myself an annual Disneyland pass, and on practically every visit, I drop by Compass Books in Downtown Disney. They stock a brilliant selection of unauthorized (and even critical) books about Disney, as well as a great variety of kids books and science fiction, and the cafe next door makes a mean cappuccino._
+
+### Chapter 10
+
+_This chapter is dedicated to Anderson's Bookshops, Chicago's legendary kids' bookstore. Anderson's is an old, old family-run business, which started out as an old-timey drug-store selling some books on the side. Today, it's a booming, multi-location kids' book empire, with some incredibly innovative bookselling practices that get books and kids together in really exciting ways. The best of these is the store's mobile book-fairs, in which they ship huge, rolling bookcases, already stocked with excellent kids' books, direct to schools on trucks -- voila, instant book-fair!_
+
+### Chapter 11
+
+_This chapter is dedicated to the University Bookstore at the University of Washington, whose science fiction section rivals many specialty stores, thanks to the sharp-eyed, dedicated science fiction buyer, Duane Wilkins. Duane's a real science fiction fan -- I first met him at the World Science Fiction Convention in Toronto in 2003 -- and it shows in the eclectic and informed choices on display at the store. One great predictor of a great bookstore is the quality of the "shelf review" -- the little bits of cardboard stuck to the shelves with (generally hand-lettered) staff-reviews extolling the virtues of books you might otherwise miss. The staff at the University Bookstore have clearly benefited from Duane's tutelage, as the shelf reviews at the University Bookstore are second to none._
+
+### Chapter 12
+
+_This chapter is dedicated to Forbidden Planet, the British chain of science fiction and fantasy book, comic, toy and video stores. Forbidden Planet has stores up and down the UK, and also sports outposts in Manhattan and Dublin, Ireland. It's dangerous to set foot in a Forbidden Planet -- rarely do I escape with my wallet intact. Forbidden Planet really leads the pack in bringing the gigantic audience for TV and movie science fiction into contact with science fiction books -- something that's absolutely critical to the future of the field._
+
+### Chapter 14
+
+_This chapter is dedicated to Books-A-Million, a chain of gigantic bookstores spread across the USA. I first encountered Books-A-Million while staying at a hotel in Terre Haute, Indiana (I was giving a speech at the Rose Hulman Institute of Technology later that day). The store was next to my hotel and I really needed some reading material -- I'd been on the road for a solid month and I'd read everything in my suitcase, and I had another five cities to go before I headed home. As I stared intently at the shelves, a clerk asked me if I needed any help. Now, I've worked at bookstores before, and a knowledgeable clerk is worth her weight in gold, so I said sure, and started to describe my tastes, naming authors I'd enjoyed. The clerk smiled and said, "I've got just the book for you," and proceeded to take down a copy of my first novel, Down and Out in the Magic Kingdom. I busted out laughing, introduced myself, and had an absolutely lovely chat about science fiction that almost made me late to give my speech!_
+
+### Chapter 14
+
+_This chapter is dedicated to the incomparable Mysterious Galaxy in San Diego, California. The Mysterious Galaxy folks have had me in to sign books every time I've been in San Diego for a conference or to teach (the Clarion Writers' Workshop is based at UC San Diego in nearby La Jolla, CA), and every time I show up, they pack the house. This is a store with a loyal following of die-hard fans who know that they'll always be able to get great recommendations and great ideas at the store. In summer 2007, I took my writing class from Clarion down to the store for the midnight launch of the final Harry Potter book and I've never seen such a rollicking, awesomely fun party at a store._
+
+### Chapter 15
+
+_This chapter is dedicated to Chapters/Indigo, the national Canadian megachain. I was working at Bakka, the independent science fiction bookstore, when Chapters opened its first store in Toronto and I knew that something big was going on right away, because two of our smartest, best-informed customers stopped in to tell me that they'd been hired to run the science fiction section. From the start, Chapters raised the bar on what a big corporate bookstore could be, extending its hours, adding a friendly cafe and lots of seating, installing in-store self-service terminals and stocking the most amazing variety of titles._
+
+### Chapter 16
+
+_This chapter is dedicated to San Francisco's Booksmith, ensconced in the storied Haight-Ashbury neighborhood, just a few doors down from the Ben and Jerry's at the exact corner of Haight and Ashbury. The Booksmith folks really know how to run an author event -- when I lived in San Francisco, I used to go down all the time to hear incredible writers speak (William Gibson was unforgettable). They also produce little baseball-card-style trading cards for each author -- I have two from my own appearances there._
+
+### Chapter 17
+
+_This chapter is dedicated to Waterstone's, the national UK bookselling chain. Waterstone's is a chain of stores, but each one has the feel of a great independent store, with tons of personality, great stock (especially audiobooks!), and knowledgeable staff._
+
+### Chapter 18
+
+_This chapter is dedicated to Vancouver's multilingual Sophia Books, a diverse and exciting store filled with the best of the strange and exciting pop culture worlds of many lands. Sophia was around the corner from my hotel when I went to Van to give a talk at Simon Fraser University, and the Sophia folks emailed me in advance to ask me to drop in and sign their stock while I was in the neighborhood. When I got there, I discovered a treasure-trove of never-before-seen works in a dizzying array of languages, from graphic novels to thick academic treatises, presided over by good-natured (even slapstick) staff who so palpably enjoyed their jobs that it spread to every customer who stepped through the door._
+
+### Chapter 19
+
+_This chapter is dedicated to the MIT Press Bookshop, a store I've visited on every single trip to Boston over the past ten years. MIT, of course, is one of the legendary origin nodes for global nerd culture, and the campus bookstore lives up to the incredible expectations I had when I first set foot in it. In addition to the wonderful titles published by the MIT press, the bookshop is a tour through the most exciting high-tech publications in the world, from hacker zines like 2600 to fat academic anthologies on video-game design. This is one of those stores where I have to ask them to ship my purchases home because they don't fit in my suitcase._
+
+### Chapter 20
+
+_This chapter is dedicated to The Tattered Cover, Denver's legendary independent bookstore. I happened upon The Tattered Cover quite by accident: Alice and I had just landed in Denver, coming in from London, and it was early and cold and we needed coffee. We drove in aimless rental-car circles, and that's when I spotted it, the Tattered Cover's sign. Something about it tingled in my hindbrain -- I knew I'd heard of this place. We pulled in (got a coffee) and stepped into the store -- a wonderland of dark wood, homey reading nooks, and miles and miles of bookshelves._
+
+### Chapter 21
+
+_This chapter is dedicated to Pages Books in Toronto, Canada. Long a fixture on the bleedingly trendy Queen Street West strip, Pages is located over the road from CityTV and just a few doors down from the old Bakka store where I worked. We at Bakka loved having Pages down the street from us: what we were to science fiction, they were to everything else: hand-picked material representing the stuff you'd never find elsewhere, the stuff you didn't know you were looking for until you saw it there. Pages also has one of the best news-stands I've ever seen, row on row of incredible magazines and zines from all over the world._
+
+### Epiloque
+
+_This chapter is dedicated to Hudson Booksellers, the booksellers that are in practically every airport in the USA. Most of the Hudson stands have just a few titles (though those are often surprisingly diverse), but the big ones, like the one in the AA terminal at Chicago's O'Hare, are as good as any neighborhood store. It takes something special to bring a personal touch to an airport, and Hudson's has saved my mind on more than one long Chicago layover._
 
 ## [Creative Commons](creative-commons) #{creative-commons}
 
