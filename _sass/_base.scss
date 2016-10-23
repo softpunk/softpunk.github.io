@@ -132,7 +132,8 @@ code {
     font-size: 18px;
     border: 1px solid $code-background-color;
     border-radius: 3px;
-    background-color: $code-background-color;
+    color: $code-background-color;
+    white-space: pre-line;
 }
 
 code {
