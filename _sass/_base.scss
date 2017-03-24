@@ -26,6 +26,12 @@ body {
     line-height: 1.8em;
 }
 
+/**
+ * Hide empty links
+ */
+a:empty {
+    display: none;
+}
 
 
 /**
