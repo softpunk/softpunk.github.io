@@ -9,3 +9,4 @@ permalink: /reading-list/
 * [http://beautifulracket.com/appendix/why-racket-why-lisp.html](http://beautifulracket.com/appendix/why-racket-why-lisp.html)
 * [http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer](http://www.yacoset.com/Home/signs-that-you-re-a-good-programmer)
 * [https://marshallbrain.com/manna1.htm](https://marshallbrain.com/manna1.htm)
+* [https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/](https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/)
